@@ -1,4 +1,4 @@
-<b>pankaj is here along with sai :)</b>
+<b>pankaj is here </b>
 
 <?php
 
