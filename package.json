@@ -1,0 +1,17 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "webhooks",
+  "main": "Http_Server.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Pankaj Tamrakar",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0",
+    "nodemailer": "^2.7.2",
+    "shelljs": "^0.7.6"
+  }
+}
