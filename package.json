@@ -1,17 +1,10 @@
 {
-  "name": "nodeapp",
-  "version": "1.0.0",
-  "description": "webhooks",
-  "main": "Http_Server.js",
-  "scripts": {
-    "test": "mocha spec"
-  },
-  "author": "Pankaj Tamrakar",
-  "license": "ISC",
+  "name": "docker-centos-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello World app on CentOS6 using docker, created from the Node.js example on docker.io",
+  "author": "Adam Miller <maxamillion@fedoraproject.org>",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "mocha": "^3.2.0",
-    "nodemailer": "^2.7.2",
-    "shelljs": "^0.7.6"
+    "express": "3.x"
   }
 }
